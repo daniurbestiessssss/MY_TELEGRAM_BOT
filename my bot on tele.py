@@ -40,11 +40,9 @@ spam_messages = [
     "@esraa_owo كس عرضج يالهوملس يالبارينتلس",
     "@Vxyuil لباس امك ياسمين الكحبة يمي",
     "@Vyxuil اخوك اطول منك وفرصه بالحياة اكثر منك شنو السالفة 😭😭 ابو الجلغ وجهك محبحب",
-    "ا@Vyxuil حتبقى بتركيا طول عمرك وتشوف اخوك يرتبط ويتونس وانت مديس وقزم وزنجي ووصخ 
-ne kadar bir زربة misin yaaa??",
+    "ا@Vyxuil حتبقى بتركيا طول عمرك وتشوف اخوك يرتبط ويتونس وانت مديس وقزم وزنجي ووصخ ne kadar bir زربة misin yaaa??",
     "@Vxyuil بورن تركي فاروق وياسمين 4k",
-    "@Vyxuil diyetini bile sürdürememişken ilişki mi yürüteceksin? 😭 REZALET AQQQ 
-yüzini bok gibi ya Lütfen bir diş fırçası tutunnnnnn yaaaa"
+    "@Vyxuil diyetini bile sürdürememişken ilişki mi yürüteceksin? 😭 REZALET AQQQ yüzini bok gibi ya Lütfen bir diş fırçası tutunnnnnn yaaaa"
 ]
 
 RUNNING_USERS = {}
